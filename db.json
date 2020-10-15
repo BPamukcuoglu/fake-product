@@ -1,4 +1,4 @@
-
+{ "Students": [
   {
     "id": 1,
     "name": "Bedirhan Kara",
@@ -51,3 +51,5 @@
     "email": "AliKara@april.biz",
     "phone": "535-555-20-06",
   },
+]
+}
