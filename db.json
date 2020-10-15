@@ -4,42 +4,54 @@
     "name": "Bedirhan Kara",
     "username": "BedirhanKara",
     "email": "BedirhanKara@april.biz",
-    "phone": "535-555-20-01"
+    "phone": "535-555-20-01",
+    "class": "6A",
+    "grade": "6"
   },
     {
     "id": 2,
     "name": "Ayşe Kara",
     "username": "AyseKara",
     "email": "AyseKarae@april.biz",
-    "phone": "535-555-20-02"
+    "phone": "535-555-20-02",
+    "class": "6A",
+    "grade": "6"
   },
     {
     "id": 3,
     "name": "Mehmet Kara",
     "username": "MehmetKara",
     "email": "MehmetKarae@april.biz",
-    "phone": "535-555-20-03"
+    "phone": "535-555-20-03",
+    "class": "6A",
+    "grade": "6"
   },
     {
     "id": 4,
     "name": "Murat Kara",
     "username": "MuratKara",
     "email": "MuratKara@april.biz",
-    "phone": "535-555-20-04"
+    "phone": "535-555-20-04",
+    "class": "6A",
+    "grade": "6"
   },
     {
     "id": 5,
     "name": "Fatma Kara",
     "username": "FatmaKara",
     "email": "FatmaKara@april.biz",
-    "phone": "535-555-20-05"
+    "phone": "535-555-20-05",
+    "class": "6A",
+    "grade": "6"
   },
     {
     "id": 6,
     "name": "Ali Kara",
     "username": "AliKara",
     "email": "AliKara@april.biz",
-    "phone": "535-555-20-06"
+    "phone": "535-555-20-06",
+    "class": "6A",
+    "grade": "6"
   }
 ]
 }
