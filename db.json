@@ -4,52 +4,42 @@
     "name": "Bedirhan Kara",
     "username": "BedirhanKara",
     "email": "BedirhanKara@april.biz",
-    "phone": "535-555-20-01",
+    "phone": "535-555-20-01"
   },
     {
     "id": 2,
     "name": "Ayşe Kara",
     "username": "AyseKara",
     "email": "AyseKarae@april.biz",
-    "phone": "535-555-20-02",
+    "phone": "535-555-20-02"
   },
     {
     "id": 3,
     "name": "Mehmet Kara",
     "username": "MehmetKara",
     "email": "MehmetKarae@april.biz",
-    "phone": "535-555-20-03",
+    "phone": "535-555-20-03"
   },
     {
     "id": 4,
     "name": "Murat Kara",
     "username": "MuratKara",
     "email": "MuratKara@april.biz",
-    "phone": "535-555-20-04",
+    "phone": "535-555-20-04"
   },
     {
     "id": 5,
     "name": "Fatma Kara",
     "username": "FatmaKara",
     "email": "FatmaKara@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "535-555-20-05",
+    "phone": "535-555-20-05"
   },
     {
     "id": 6,
     "name": "Ali Kara",
     "username": "AliKara",
     "email": "AliKara@april.biz",
-    "phone": "535-555-20-06",
-  },
+    "phone": "535-555-20-06"
+  }
 ]
 }
