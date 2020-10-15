@@ -14,7 +14,7 @@
     "username": "AyseKara",
     "email": "AyseKarae@april.biz",
     "phone": "535-555-20-02",
-    "class": "6A",
+    "class": "6B",
     "grade": "6"
   },
     {
@@ -23,7 +23,7 @@
     "username": "MehmetKara",
     "email": "MehmetKarae@april.biz",
     "phone": "535-555-20-03",
-    "class": "6A",
+    "class": "6C",
     "grade": "6"
   },
     {
@@ -32,8 +32,8 @@
     "username": "MuratKara",
     "email": "MuratKara@april.biz",
     "phone": "535-555-20-04",
-    "class": "6A",
-    "grade": "6"
+    "class": "7A",
+    "grade": "7"
   },
     {
     "id": 5,
@@ -41,8 +41,8 @@
     "username": "FatmaKara",
     "email": "FatmaKara@april.biz",
     "phone": "535-555-20-05",
-    "class": "6A",
-    "grade": "6"
+    "class": "8A",
+    "grade": "8"
   },
     {
     "id": 6,
@@ -50,8 +50,8 @@
     "username": "AliKara",
     "email": "AliKara@april.biz",
     "phone": "535-555-20-06",
-    "class": "6A",
-    "grade": "6"
+    "class": "8B",
+    "grade": "8"
   }
 ]
 }
