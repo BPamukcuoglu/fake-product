@@ -1,19 +1,9 @@
-[
+
   {
     "id": 1,
     "name": "Bedirhan Kara",
     "username": "BedirhanKara",
     "email": "BedirhanKara@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
     "phone": "535-555-20-01",
   },
     {
@@ -21,16 +11,6 @@
     "name": "Ayşe Kara",
     "username": "AyseKara",
     "email": "AyseKarae@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
     "phone": "535-555-20-02",
   },
     {
@@ -38,16 +18,6 @@
     "name": "Mehmet Kara",
     "username": "MehmetKara",
     "email": "MehmetKarae@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
     "phone": "535-555-20-03",
   },
     {
@@ -55,16 +25,6 @@
     "name": "Murat Kara",
     "username": "MuratKara",
     "email": "MuratKara@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
     "phone": "535-555-20-04",
   },
     {
@@ -89,16 +49,5 @@
     "name": "Ali Kara",
     "username": "AliKara",
     "email": "AliKara@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
     "phone": "535-555-20-06",
   },
-]
