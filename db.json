@@ -1,49 +1,104 @@
-{
-  "Products": [
-    { "id": "0",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
-      "name": "Sport Shoes",
-      "price": 110
+[
+  {
+    "id": 1,
+    "name": "Bedirhan Kara",
+    "username": "BedirhanKara",
+    "email": "BedirhanKara@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
     },
-    { "id": "1",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
-      "name": "Red SNEAKER",
-      "price": 91
+    "phone": "535-555-20-01",
+  },
+    {
+    "id": 2,
+    "name": "Ayşe Kara",
+    "username": "AyseKara",
+    "email": "AyseKarae@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
     },
-    { "id": "2",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
-      "name": "Sport Shoes Women",
-      "price": 94
+    "phone": "535-555-20-02",
+  },
+    {
+    "id": 3,
+    "name": "Mehmet Kara",
+    "username": "MehmetKara",
+    "email": "MehmetKarae@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
     },
-    { "id": "3",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
-      "name": "Winter boots children",
-      "price": 143
+    "phone": "535-555-20-03",
+  },
+    {
+    "id": 4,
+    "name": "Murat Kara",
+    "username": "MuratKara",
+    "email": "MuratKara@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
     },
-    { "id": "4",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-bangkok-thailand-january-onitsuka-tiger-asics-gel-lyte-iii-on-january-in-bangkok-292088969.jpg",
-      "name": "Sports shoes Red-White",
-      "price": 150
+    "phone": "535-555-20-04",
+  },
+    {
+    "id": 5,
+    "name": "Fatma Kara",
+    "username": "FatmaKara",
+    "email": "FatmaKara@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
     },
-    { "id": "5",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
-      "name": "Black leather shoes",
-      "price": 250
+    "phone": "535-555-20-05",
+  },
+    {
+    "id": 6,
+    "name": "Ali Kara",
+    "username": "AliKara",
+    "email": "AliKara@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
     },
-    { "id": "6",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
-      "name": "Shoes Canvas",
-      "price": 50
-    },
-    { "id": "7",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
-      "name": "Shoes White",
-      "price": 85
-    },
-    { "id": "8",
-      "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
-      "name": "Sneakers Yellow",
-      "price": 125
-    }    
-  ]
-}
+    "phone": "535-555-20-06",
+  },
+]
